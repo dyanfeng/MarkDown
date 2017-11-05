@@ -3,14 +3,13 @@
 ## 链接
 ### 内嵌式链接
 - 外部链接  
-[百度](http://baidu.com)  
+[百度](http://www.baidu.com)  
 - 内部链接  
 链接仓库的其他文件:[demo01](demo01.md)  
 链接本文档的其他部分:[代码块](demo01.md#代码块)
 
 ### 引用式链接
 - 外部链接  
-[百度]
 [百度1](baidu)
 - 内部链接  
 链接仓库的其他文件:[demo01]
@@ -18,11 +17,11 @@
 
 ## 图片
 ### 外部图片
-![图片替换文字](picture)  
+![图片替换文字](picture1)  
 即图片不能正常显示时候的显示文字  
 ### 内部图片
 在仓库里新建一个images文件夹
-![图片](picture)
+![图片](picture2)
 ## 引用
 >这是一个引文
 
@@ -57,5 +56,5 @@ public class Hello {
 [baidu]:http://www.baidu.com
 [demo01]:demo01.md
 [代码块]:(demo01.md#代码块)
-[picture]:(https://www.baidu.com/img/bd_logo1.png"百度网站")
-[picture]:(images/timg.jpeg)
+[picture1]:(https://www.baidu.com/img/bd_logo1.png"百度网站")
+[picture2]:(images/timg.jpeg)
