@@ -55,6 +55,6 @@ public class Hello {
 
 [baidu]:http://www.baidu.com
 [demo01]:demo01.md
-[代码块]:(demo02.md#代码块)
+[代码块]:demo02.md#代码块
 [picture1]:https://www.baidu.com/img/bd_logo1.png
 [picture2]:images/timg.jpeg
