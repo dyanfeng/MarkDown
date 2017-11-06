@@ -17,11 +17,11 @@
 
 ## 图片
 ### 外部图片
-![图片](picture1)  
+![图片1][picture1]
 即图片不能正常显示时候的显示文字  
 ### 内部图片
 在仓库里新建一个images文件夹
-![图片](picture2)
+![图片2][picture2]
 ## 引用
 >这是一个引文
 
@@ -52,7 +52,7 @@ public class Hello {
 
 
 <!---下面是本文中用到的链接--->
-[百度]:http://www.baidu.com
+
 [baidu]:http://www.baidu.com
 [demo01]:demo01.md
 [代码块]:(demo02.md#代码块)
