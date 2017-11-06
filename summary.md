@@ -23,10 +23,12 @@
 图片链接  
     [![](https://www.baidu.com/img/bd_logo1.png)](http://www.baidu.com)
 
-    [![][baidu_logo]][baidu]
+---
+
+[![][baidu_logo]][baidu]
 
 
-<!-- 以下是本文中的链接 -->
 
-[baidu_logo]: https://www.baidu.com/img/bd_logo1.png  
+<!--- 以下是本文中的链接 --->
 [baidu] : http://www.baidu.com
+[baidu_logo]: https://www.baidu.com/img/bd_logo1.png  
