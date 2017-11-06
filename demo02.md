@@ -6,18 +6,18 @@
 [百度](http://www.baidu.com)  
 - 内部链接  
 链接仓库的其他文件:[demo01](demo01.md)  
-链接本文档的其他部分:[代码块](demo01.md#代码块)
+链接本文档的其他部分:[代码块](demo02.md#代码块)
 
 ### 引用式链接
 - 外部链接  
 [百度1](baidu)
 - 内部链接  
-链接仓库的其他文件:[demo01]
+链接仓库的其他文件:[demo01]  
 链接本文档的其他部分:[代码块]
 
 ## 图片
 ### 外部图片
-![图片替换文字](picture1)  
+![图片](picture1)  
 即图片不能正常显示时候的显示文字  
 ### 内部图片
 在仓库里新建一个images文件夹
@@ -55,6 +55,6 @@ public class Hello {
 [百度]:http://www.baidu.com
 [baidu]:http://www.baidu.com
 [demo01]:demo01.md
-[代码块]:(demo01.md#代码块)
-[picture1]:(https://www.baidu.com/img/bd_logo1.png"百度网站")
+[代码块]:(demo02.md#代码块)
+[picture1]:(https://www.baidu.com/img/bd_logo1.png)
 [picture2]:(images/timg.jpeg)
