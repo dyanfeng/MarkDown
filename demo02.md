@@ -31,8 +31,8 @@
 
 >>> 这是多重引用
 
-## 代码块
-### 块式代码
+## 代码块:blush:
+### 块式代码:blush:
 
 ```java
 public class Hello {
@@ -42,10 +42,25 @@ public class Hello {
 }
 //在三个点之后,写上代码的名字,可以实现代码高亮
 ```
-### 行内代码
+### 行内代码:blush:
 这是打印`System.out.println("hello world");`java 中的
 
+## 表格
+| 这是 | 表头| 吗|
+|:---|:---:|---:|
+|啊啊啊|888888888888888888888|ddddd|
+|a|bv|cd|
 
+## GFM demo  
+task list  
+
+- [x] task1
+- [x] task2
+- [ ] task3
+
+emoji 表情符号  
+:emoji code:  
+eg::blush:
 
 
 
